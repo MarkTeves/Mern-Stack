@@ -83,11 +83,9 @@ npm run prettier-watch
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 # 👨‍💻 Author
-### 👤 Asif Vora
-- Github: [@asif-simform](https://github.com/asif-simform)
-- LinkedIn: [@asif-vora](https://www.linkedin.com/in/asif-vora/)
-- Twitter: [@007_dark_shadow](https://twitter.com/007_dark_shadow)
-- Instagram: [@007_dark_shadow](https://www.instagram.com/007_dark_shadow/)
+### 👤 Mark Teves
+- Github: [@asif-simform](https://github.com/MarkTeves)
+- Skype: [@007_dark_shadow](live:.cid.6d4324db0f46fd0)
 
 # 🍰 Contributing
 
@@ -96,4 +94,4 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 - Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details.
 
 # 🙏 Support
-This project needs a ⭐️  from you. Don't forget to leave a star ⭐️
+This project needs a ⭐️  from you. Don't forget to leave a star ⭐️ 
